@@ -1,0 +1,101 @@
+[
+  {
+    "className": "English 4",
+    "teacher": "Mrs. Fontanilla",
+    "roomNumber": "E123",
+    "period": "1",
+    "subjectArea": "ELA"
+
+
+  },
+
+
+  {
+    "className": "Honors Innovation and Design",
+    "teacher": "Ms. Ransom",
+    "roomNumber": "B107",
+    "period": "2",
+    "subjectArea": "Creative Arts and Design"
+
+
+  },
+
+
+
+
+   {
+    "className": "Advanced Algebra and Trigenometry",
+    "teacher": "Mr. Daley",
+    "roomNumber": "A223",
+    "period": "3",
+    "subjectArea": "Math"
+
+
+  },
+{
+    "className": "Honors Architecture 2",
+    "teacher": "Mr. Gasior",
+    "roomNumber": "B107",
+    "period": "4",
+    "subjectArea": "Creative Arts and Design"
+
+
+  },
+{
+    "className": "Sports and Entertainment Marketing",
+    "teacher": "Mr. Cooper",
+    "roomNumber": "D112",
+    "period": "5 S1",
+    "subjectArea": "Marketing and Business"
+
+
+  },
+{
+    "className": "Business Management",
+    "teacher": "Mr. Cooper",
+    "roomNumber": "D112",
+    "period": "5 S2",
+    "subjectArea": "Business and Finance"
+
+
+  },
+{
+    "className": "Health",
+    "teacher": "Mr.Sinisky",
+    "roomNumber": "C130",
+    "period": "6 Q1",
+    "subjectArea": "Gym and Health"
+
+
+  },
+{
+    "className": "Physical Education",
+    "teacher": "Mr. Sinisky",
+    "roomNumber": "Gym",
+    "period": "6 Q2 Q3 Q4",
+    "subjectArea": "Gym and Health"
+
+
+  },
+
+
+{
+    "className": "Financial Literacy",
+    "teacher": "Mr. Morgan",
+    "roomNumber": "A132",
+    "period": "7 S1",
+    "subjectArea": "Marketing and Finance"
+
+
+  },
+
+  {
+    "className": "Popular Music 2",
+    "teacher": "Mr. Ippolito",
+    "roomNumber": "C103",
+    "period": "7 S2",
+    "subjectArea": "Music and Creative Arts"
+
+
+  }
+]
