@@ -1,0 +1,66 @@
+
+[
+    {
+        "className": "Statistics",
+        "teacher": "Mr. Juska",
+        "roomNumber": "A213",
+        "period": "1",
+        "subjectArea": "Math"
+    },
+    {
+        "className": "Honors NJIT IS219 Advanced Website Development WDP",
+        "teacher": "Mr. Kilgore",
+        "roomNumber": "B111",
+        "period": "2",
+        "subjectArea": "Computer Science"
+    },
+    {
+        "className": "Physical Education 12",
+        "teacher": "Mrs. Preston",
+        "roomNumber": "Gym",
+        "period": "3 Q1 Q3 Q4 ",
+        "subjectArea": "Athletics"
+    },
+     {
+        "className": "Health 12",
+        "teacher": "Mrs. Preston",
+        "roomNumber": "C130",
+        "period": "3 Q2 ",
+        "subjectArea": "Gym and Health"
+    },
+    {
+        "className": "English 4",
+        "teacher": "Mr. Murphy",
+        "roomNumber": "E113",
+        "period": "4",
+        "subjectArea": "ELA"
+    },
+    {
+        "className": "Honors Italian 4",
+        "teacher": "Mrs. Raineri",
+        "roomNumber": "A205",
+        "period": "5",
+        "subjectArea": "Language Arts"
+    },
+    {
+        "className": "Sociology",
+        "teacher": "Mr. Wisniewski",
+        "roomNumber": "A105",
+        "period": "6",
+        "subjectArea": "Social Sciences"
+    },
+    {
+        "className": "Financial Literacy",
+        "teacher": "Mr. Morgan",
+        "roomNumber": "A132",
+        "period": "7 S1",
+        "subjectArea": "Marketing and Finance"
+    },
+      {
+        "className": "Financial Literacy",
+        "teacher": "Mr. Morgan",
+        "roomNumber": "A132",
+        "period": "7 S2",
+        "subjectArea": "Marketing and Finance"
+    }
+]

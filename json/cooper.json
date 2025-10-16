@@ -1,0 +1,65 @@
+[
+    {
+        "className": "English 4",
+        "teacher": "Mrs. Fontanilla",
+        "roomNumber": "E123",
+        "period": "1",
+        "subjectArea": "ELA"
+    },
+    {
+        "className": "Honors NJIT IS219 Advanced Website Development WDP",
+        "teacher": "Mr. Kilgore",
+        "roomNumber": "B111",
+        "period": "2",
+        "subjectArea": "Computer Science"
+    },
+    {
+        "className": "Advanced Algebra & Trigenometry",
+        "teacher": "Mr. Daley",
+        "roomNumber": "A223",
+        "period": "3",
+        "subjectArea": "Math"
+    },
+    {
+        "className": "Gym 12",
+        "teacher": "Mr. Levi",
+        "roomNumber": "Gym",
+        "period": "4 Q1 Q3 Q4",
+        "subjectArea": "Athletics"
+    },
+      {
+        "className": "Health 12",
+        "teacher": "Mr. Levi",
+        "roomNumber": "Gym",
+        "period": "4 Q2",
+        "subjectArea": "Gym and Health"
+    },
+    {
+        "className": "Video Editing & Media Production 1",
+        "teacher": "Mr. Werntz",
+        "roomNumber": "B106",
+        "period": "5",
+        "subjectArea": "Video and Digital Design"
+    },
+    {
+        "className": "Applied Art 1",
+        "teacher": "Ms. Rucci",
+        "roomNumber": "D103",
+        "period": "6",
+        "subjectArea": "Visual Arts"
+    },
+    {
+        "className": "Popular Music 1",
+        "teacher": "Mr. Ippolito",
+        "roomNumber": "C103",
+        "period": "7 S1",
+        "subjectArea": "Music and Creative Arts"
+    },
+    {
+    "className": "Popular Music 2",
+    "teacher": "Mr. Ippolito",
+    "roomNumber": "C103",
+    "period": "7 S2",
+    "subjectArea": "Music and Creative Arts"
+  }
+]
