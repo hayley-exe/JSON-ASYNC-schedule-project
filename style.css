@@ -1,3 +1,43 @@
 body {
-  background-color: #58c8b6;
+  background-color: #edf1fe !important;
+  font-family: "Sour Gummy", sans-serif !important;
+  font-size: 24px !important;
+}
+.card-0 {
+  background-color: #fb9393 !important;
+}
+
+.card-1 {
+  background-color: #fca289 !important;
+}
+
+.card-2 {
+  background-color: #fbac82 !important;
+}
+
+.card-3 {
+  background-color: #feea77 !important;
+}
+
+.card-4 {
+  background-color: #dfef87 !important;
+}
+
+.card-5 {
+  background-color: #b9eab3 !important;
+}
+
+.card-6 {
+  background-color: #96dfce !important;
+}
+
+.card-7 {
+  background-color: #6ce6f1 !important;
+}
+
+.card-8 {
+  background-color: #86daf3 !important;
+}
+.card-9 {
+  background-color: #c8beff !important;
 }

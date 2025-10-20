@@ -18,12 +18,13 @@ async function loadSchedule(fileName) {
         const data = await response.json();
 
         // Loop through schedule entries and insert cards
-        data.forEach(entry => {
+        data.forEach((entry, index) => {
             const html = `
-                <div class="col-md-6 col-lg-4">
-                    <div class="card shadow-sm h-100">
+        <div class="col-md-6 col-lg-4">
+            <div class="card shadow-sm h-100 card-${index}">
+
                         <div class="card-body">
-                            <h5 class="card-title">${entry.className}</h5>
+                            <h4 class="card-title">${entry.className}</h4>
                             <p class="card-text"><strong>Teacher:</strong> ${entry.teacher}</p>
                             <p class="card-text"><strong>Room:</strong> ${entry.roomNumber}</p>
                             <p class="card-text"><strong>Period:</strong> ${entry.period}</p>
@@ -47,7 +48,7 @@ document.addEventListener('keydown', (e) => {
     if (e.key === '1') loadSchedule('gabbi.json');
     if (e.key === '2') loadSchedule('nick.json');
     if (e.key === '3') loadSchedule('cooper.json');
-    if (e.key === 'tab') loadSchedule('hayley.json')
+    if (e.key === 'q') loadSchedule('hayley.json')
 });
 
 // Load Gabbi's schedule by default when page loads
